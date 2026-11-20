@@ -1,5 +1,7 @@
 # Changelog — Pocket Master CFW 1.0.2 (KS Mod)
 
+**Português** | [English](CHANGELOG.en.md)
+
 Todas as alterações relevantes aplicadas sobre a base **Pocket Master CFW 1.0.2 (1.3.3)** estão registradas abaixo.
 
 ---

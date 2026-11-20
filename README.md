@@ -1,5 +1,7 @@
 # Pocket Master CFW 1.0.2 — KS Mod (Bass & Synth Edition)
 
+**Português** | [English](README.en.md) · [Changelog](CHANGELOG.md) | [Changelog (EN)](CHANGELOG.en.md)
+
 Modificação experimental de custom firmware (CFW) e editor Windows para a pedaleira **Sonicake Pocket Master**, focada em **contrabaixo e timbres synth**, baseada na **CFW 1.0.2 (base 1.3.3)**.
 
 > [!CAUTION]
